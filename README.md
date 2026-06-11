@@ -402,7 +402,7 @@ Joined Gigalabs as an intern and was given sole engineering ownership of the com
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=awaisarif18&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-trophies.vercel.app/?username=awaisarif18&theme=discord&column=7&margin-w=8&margin-h=8&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
